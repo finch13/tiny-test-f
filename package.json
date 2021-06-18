@@ -1,0 +1,14 @@
+{
+    "name": "@stf13/tiny-test-f",
+    "version": "1.0.0",
+    "description": "Removes all spaces from a string",
+    "license": "MIT",
+    "repository": "finch13/tiny-test-f",
+    "main": "index.js",
+    "keywords": [
+        "tiny",
+        "npm",
+        "package",
+        "stf13"
+    ]
+}
